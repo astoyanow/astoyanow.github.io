@@ -7,5 +7,5 @@ header .row {
 #siteTitle{
   font-size: 200px;
   font-family: 'Cinzel', cursive;
-  justify-content: center;
+  text-align: center;
 }
