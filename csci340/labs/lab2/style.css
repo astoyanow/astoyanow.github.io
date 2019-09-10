@@ -1,0 +1,9 @@
+header .row {
+  display: flex;
+  align-items: center;
+}
+
+#siteTitle{
+  font-size: 500;
+  font-family: 'Cinzel', cursive;
+}
