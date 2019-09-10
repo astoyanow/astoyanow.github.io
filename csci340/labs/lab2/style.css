@@ -1,9 +1,15 @@
+
+header{
+  background-image: url(https://snappygoat.com/s/?q=ocean#f9bdd9f045d6412b9cc1be9e734dccce013e3c85,6,9467.)
+}
+
 header .row {
+  display:flex;
   align-items: center;
 }
 
 #siteTitle{
   font-size: 1000px;
   font-family: 'Cinzel', cursive;
-  align-content: center;
+  align-items: center;
 }
