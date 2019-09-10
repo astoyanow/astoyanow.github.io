@@ -6,11 +6,7 @@ header .row {
 }
 
 #siteTitle{
-<<<<<<< HEAD
   font-size: 50px;
-=======
-  font-size: 200px;
->>>>>>> f5441b6fd39e88002257362dd60e47dee7b0e506
   font-family: 'Cinzel', cursive;
   align-items: center;
 }
