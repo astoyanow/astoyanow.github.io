@@ -22,7 +22,7 @@ header .row {
   border-top: 0px;
 }
 
-h2{
+.jumbotron h2{
   font-family: 'Abril Fatface', 'Lexend', cursive;
   text-align: center;
   font-size: 200px;
@@ -30,7 +30,7 @@ h2{
   color: #722F37
 }
 
-.col-sm-4 p{
+p{
   margin: 25px 20px 15px;
   min-width: 60px;
   padding: 1px;
