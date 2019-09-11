@@ -9,12 +9,8 @@ header .row {
   font-size: 150px;
   font-family: 'Cinzel', cursive;
   text-align: center;
-  background-image: url("https://www.goodfreephotos.com/cache/other-landscapes/ocean-with-rock-formation-under-the-sky.jpg");
-<<<<<<< HEAD
-  background-size: 100%;
-=======
+  background-image: url("https://www.science.org.au/curious/sites/default/files/images/curious/environment/eSTaa5-ocean-surface-1000x1000.jpg");
   background-size: cover;
->>>>>>> e38a0556db8ad06399f0fe16bd89085d44d6a818
 }
 
 section.container.row {
