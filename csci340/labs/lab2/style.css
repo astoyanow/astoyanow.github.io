@@ -23,11 +23,11 @@ section.container.row {
 h2{
   font-family: 'Abril Fatface', 'Lexend', cursive;
   text-align: center;
-  font-size: 50px;
+  font-size: 100px;
 }
 
 p{
   text-align: center;
   justify-content: center;
-  font-family: 'Lexend', fantasy;
+  font-family: 'Lexend',inherit;
 }
