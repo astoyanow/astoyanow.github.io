@@ -10,7 +10,7 @@ header .row {
   font-family: 'Cinzel', cursive;
   text-align: center;
   background-image: url("https://www.science.org.au/curious/sites/default/files/images/curious/environment/eSTaa5-ocean-surface-1000x1000.jpg");
-  background-size: contain;
+  background-size: cover;
 }
 
 section.container.row {
