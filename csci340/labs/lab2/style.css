@@ -11,16 +11,16 @@ header .row {
   text-align: center;
   background-image: url("https://www.science.org.au/curious/sites/default/files/images/curious/environment/eSTaa5-ocean-surface-1000x1000.jpg");
   background-size: cover;
-  margin-bottom: 0px;
-  border-bottom: 0px;
+  margin: 0px;
+  border: 0px;
   padding: 0px;
 }
 
 
 .section-1{
   background-image: url("https://static.soundsandcolours.com/2016/10/south-american-casinos.jpg");
-  margin-top: 0px;
-  border-top: 0px;
+  margin: 0px;
+  border: 0px;
   padding: 100px;
 }
 
