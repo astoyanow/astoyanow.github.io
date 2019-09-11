@@ -10,7 +10,11 @@ header .row {
   font-family: 'Cinzel', cursive;
   text-align: center;
   background-image: url("https://www.goodfreephotos.com/cache/other-landscapes/ocean-with-rock-formation-under-the-sky.jpg");
+<<<<<<< HEAD
   background-size: 100%;
+=======
+  background-size: cover;
+>>>>>>> e38a0556db8ad06399f0fe16bd89085d44d6a818
 }
 
 section.container.row {
