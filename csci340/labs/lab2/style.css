@@ -16,18 +16,22 @@ header .row {
 
 .section-1{
   background-image: url("https://static.soundsandcolours.com/2016/10/south-american-casinos.jpg");
+  margin-top: 0px;
 }
 
 h2{
   font-family: 'Abril Fatface', 'Lexend', cursive;
   text-align: center;
   font-size: 100px;
+  background-color: black;
+  color: #722F37
 }
 
 .col-sm-4 p{
   margin: 25px 20px 15px;
   min-width: 60px;
   padding: 1px;
+  background: #722F37;
   text-align: center;
   justify-content: center;
   font-family: 'Lexend',inherit;
