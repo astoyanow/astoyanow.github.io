@@ -2,12 +2,14 @@
 
 header .row {
   align-items: center;
+  display: flex;
 }
 
 #siteTitle{
   font-size: 150px;
   font-family: 'Cinzel', cursive;
   text-align: center;
+  background-image: url("https://istockphoto.7eer.net/AR6JR?u=https%3A//www.istockphoto.com/photo/aerial-view-of-clear-turquoise-sea-gm956431518-261142734");
 }
 
 section.container.row {
@@ -17,7 +19,7 @@ section.container.row {
   justify-content: center;
 }
 
-h5{
+.h5-header{
   font-family: 'Lexend', sans-serif;
   text-align: center;
 }
