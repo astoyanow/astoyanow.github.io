@@ -20,6 +20,11 @@ section.container.row {
   justify-content: center;
 }
 
+.section-1{
+  background-image: url("https://static.soundsandcolours.com/2016/10/south-american-casinos.jpg");
+  background-size: cover;
+}
+
 h2{
   font-family: 'Abril Fatface', 'Lexend', cursive;
   text-align: center;
