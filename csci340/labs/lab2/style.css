@@ -22,12 +22,13 @@ header .row {
   border-top: 0px;
 }
 
-.jumbotron h2{
+h2{
   font-family: 'Abril Fatface', 'Lexend', cursive;
   text-align: center;
   font-size: 200px;
   background-color: black;
   color: #722F37
+  padding: 100px;
 }
 
 p{
