@@ -45,6 +45,8 @@ div{
   margin: 0;
   font-size: 30px;
   text-align: center;
+  border:5px solid;
+  border-radius: 5px;
 }
 
 .psectionBackground div{
