@@ -54,7 +54,8 @@ div{
   border-radius: 5px;
 }
 
-div.row{
+div.container{
+  height:50px;
 }
 
 .psectionBackground div{
