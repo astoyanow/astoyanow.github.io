@@ -46,8 +46,7 @@ h2{
 }
 
 p{
-  min-width: 60px;
-  padding: 1px;
+  padding: 0px;
   text-align: center;
   justify-content: center;
   font-family: 'Cinzel',inherit;
