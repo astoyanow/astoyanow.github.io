@@ -2,7 +2,7 @@ html,body{
   background-color: black;
 }
 
-header, section{
+header{
   align-items: center;
   justify-content: center;
   display: flex;
@@ -47,7 +47,7 @@ footer{
 }
 
 div{
-  margin: 20px;
+  margin: 0;
   font-size: 30px;
   text-align: center;
   border:5px solid;
@@ -63,7 +63,7 @@ div{
 }
 
 
-.section-1{
+section{
   background-image: url("https://static.soundsandcolours.com/2016/10/south-american-casinos.jpg");
   margin: 0px;
   border: 0px;
