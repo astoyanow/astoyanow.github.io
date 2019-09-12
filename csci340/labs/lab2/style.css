@@ -33,7 +33,7 @@ div{
   font-size: 30px;
 }
 
-div.psectionBackground{
+.psectionBackground div{
   height:600px;
   margin: 0;
   padding:0;
