@@ -9,9 +9,12 @@ header, section, footer{
   margin:0;
 }
 
-footer p.col-sm-4{
+#footerInfo{
   float: left;
+  text-align: center;
   height:50px;
+  display: inline-flex;
+  flex-wrap: wrap;
 }
 
 .psectionBackground{
