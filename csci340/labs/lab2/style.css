@@ -47,7 +47,7 @@ div{
   padding: 10%;
   width: 100%;
   justify-content: center;
-  background-repeat: no-repeat;
+  background-repeat:round;
 }
 
 .section-1 h2{
