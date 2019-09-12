@@ -17,7 +17,7 @@ header, section, footer{
   flex-wrap: wrap;
   border: 0;
   font-size: 25px;
-  
+  padding: 0;
 }
 
 .psectionBackground{
