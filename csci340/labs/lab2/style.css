@@ -2,7 +2,7 @@ html,body{
   background-color: black;
 }
 
-header, section, footer{
+header, section{
   align-items: center;
   justify-content: center;
   display: flex;
@@ -19,6 +19,11 @@ header, section, footer{
   border: 0;
   font-size: 25px;
   padding: 0;
+}
+
+footer{
+  height:20px;
+  
 }
 
 .psectionBackground{
