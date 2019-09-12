@@ -9,6 +9,10 @@ header, section, footer{
   margin:0;
 }
 
+footer.container{
+  height:50px;
+}
+
 .psectionBackground{
   background-image: url("https://cdn.pixabay.com/photo/2015/11/07/11/08/cards-1030852_960_720.jpg");
   background-size: 100%;
@@ -53,6 +57,8 @@ div{
   justify-content: center;
   background-repeat:round;
 }
+
+
 
 .section-1 h2{
   font-family: 'Abril Fatface', 'Lexend', cursive;
