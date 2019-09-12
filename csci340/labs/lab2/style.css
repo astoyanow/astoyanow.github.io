@@ -54,23 +54,6 @@ div{
   text-align: center;
 }
 
-div p{
-  height:15px;
-}
-
-.col-sm-9 p{
-  padding: 0px;
-  text-align: center;
-  justify-content: center;
-  font-family: 'Abril Fatface',monospace;
-  display: flex;
-  justify-content: flex-end;
-  border: 5px solid;
-  border-radius: 5px;
-  background-color: black;
-  color: Gold;
-}
-
 
 .section-1{
   background-image: url("https://static.soundsandcolours.com/2016/10/south-american-casinos.jpg");
