@@ -5,7 +5,7 @@ html,body{
 header, section, footer{
   align-items: center;
   display: flex;
-  margin:0px;
+  margin:0;
 }
 
 #siteTitle{
@@ -14,11 +14,16 @@ header, section, footer{
   text-align: center;
   background-image: url("https://www.science.org.au/curious/sites/default/files/images/curious/environment/eSTaa5-ocean-surface-1000x1000.jpg");
   background-size: cover;
-  margin: 0px;
-  border: 0px;
-  padding: 0px;
+  margin: 0;
+  border: 0;
+  padding: 0;
   display: flex;
   flex-wrap: wrap;
+}
+
+div{
+  height: 200px;
+  margin: 0;
 }
 
 
@@ -27,7 +32,7 @@ header, section, footer{
   margin: 0px;
   border: 0px;
   padding: 100px;
-
+  width: 100%;
 }
 
 h2{
