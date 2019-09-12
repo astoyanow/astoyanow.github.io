@@ -16,6 +16,7 @@ header, section, footer{
   display: inline-flex;
   flex-wrap: wrap;
   border: 0;
+  font-size: 25px;
   
 }
 
