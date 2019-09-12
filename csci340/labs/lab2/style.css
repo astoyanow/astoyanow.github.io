@@ -26,6 +26,7 @@ header, section, footer{
   padding: 0;
   display: flex;
   flex-wrap: wrap;
+  height:500px;
 }
 
 div{
@@ -67,7 +68,7 @@ p{
   padding: 0px;
   text-align: center;
   justify-content: center;
-  font-family: 'Cinzel',monospace;
+  font-family: 'Abril Fatface',monospace;
   display: flex;
   justify-content: flex-end;
   border: 5px solid;
