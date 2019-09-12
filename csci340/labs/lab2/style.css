@@ -33,6 +33,12 @@ div{
   font-size: 30px;
 }
 
+div.psectionBackground{
+  height:600px;
+  margin: 0;
+  padding:0;
+}
+
 
 .section-1{
   background-image: url("https://static.soundsandcolours.com/2016/10/south-american-casinos.jpg");
