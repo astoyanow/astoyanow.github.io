@@ -35,11 +35,9 @@ h2{
 }
 
 p{
-  margin: 25px 20px 15px;
   min-width: 60px;
   padding: 1px;
-  background: #722F37;
   text-align: center;
   justify-content: center;
-  font-family: 'Lexend',inherit;
+  font-family: 'Orbitron',inherit;
 }
