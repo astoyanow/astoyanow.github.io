@@ -2,9 +2,10 @@ html,body{
   background-color: black;
 }
 
-header .row {
+header, section, footer{
   align-items: center;
   display: flex;
+  margin:0px;
 }
 
 #siteTitle{
@@ -24,7 +25,7 @@ header .row {
   margin: 0px;
   border: 0px;
   padding: 100px;
-  
+
 }
 
 h2{
@@ -33,6 +34,8 @@ h2{
   font-size: 100px;
   background-color: black;
   color: Gold;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 p{
