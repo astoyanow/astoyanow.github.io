@@ -12,6 +12,7 @@ header, section, footer{
 .psectionBackground{
   background-image: url("https://cdn.pixabay.com/photo/2015/11/07/11/08/cards-1030852_960_720.jpg");
   background-size: 100%;
+  text-align: center;
 }
 
 #siteTitle{
@@ -38,6 +39,7 @@ div{
   height:600px;
   margin: 0;
   padding:0;
+  text-align: center;
 }
 
 
@@ -71,7 +73,7 @@ p{
   border: 5px solid;
   border-radius: 5px;
   background-color: black;
-  color: Red;
+  color: Gold;
 }
 
 ul{
