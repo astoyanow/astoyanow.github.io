@@ -9,7 +9,8 @@ header, section, footer{
   margin:0;
 }
 
-footer.container{
+footer p.col-sm-4{
+  float: left;
   height:50px;
 }
 
