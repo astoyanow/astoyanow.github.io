@@ -21,9 +21,10 @@ header .row {
 
 .section-1{
   background-image: url("https://static.soundsandcolours.com/2016/10/south-american-casinos.jpg");
-  margin: 50px;
-  border: 50px;
+  margin: 0px;
+  border: 0px;
   padding: 100px;
+  
 }
 
 h2{
@@ -39,5 +40,5 @@ p{
   padding: 1px;
   text-align: center;
   justify-content: center;
-  font-family: 'Orbitron',inherit;
+  font-family: 'Cinzel',inherit;
 }
