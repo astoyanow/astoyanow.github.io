@@ -71,7 +71,10 @@ p{
 ul{
   display: flex;
   justify-content: flex-end;
-  border: 0.5px solid;
+  border: 5px solid;
   border-radius: 5px;
   text-align: center;
+  font-family: 'Abril Fatface';
+  background-color: black;
+  color: Gold;
 }
