@@ -49,6 +49,10 @@ div{
   border-radius: 5px;
 }
 
+div.row{
+  background-color: black;
+}
+
 .psectionBackground div{
   height:600px;
   margin: 0;
