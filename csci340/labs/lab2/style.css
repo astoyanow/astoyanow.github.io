@@ -67,3 +67,11 @@ p{
   justify-content: center;
   font-family: 'Cinzel',monospace;
 }
+
+ul{
+  display: flex;
+  justify-content: flex-end;
+  border: 0.5px solid;
+  border-radius: 5px;
+  text-align: center;
+}
