@@ -47,7 +47,7 @@ div{
   padding: 10%;
   width: 100%;
   justify-content: center;
-  background-size: cover;
+  background-size: contain;
 }
 
 .section-1 h2{
