@@ -35,7 +35,6 @@ h2{
   background-color: black;
   color: Gold;
   display: flex;
-  flex-wrap: wrap;
 }
 
 p{
