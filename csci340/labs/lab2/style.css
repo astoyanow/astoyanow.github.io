@@ -9,6 +9,11 @@ header, section, footer{
   margin:0;
 }
 
+.psectionBackground{
+  background-image: url("https://cdn.pixabay.com/photo/2015/11/07/11/08/cards-1030852_960_720.jpg");
+
+}
+
 #siteTitle{
   font-size: 150px;
   font-family: 'Cinzel', cursive;
@@ -26,7 +31,6 @@ div{
   height: 350px;
   margin: 0;
   font-size: 30px;
-  background-image: url("https://cdn.pixabay.com/photo/2015/11/07/11/08/cards-1030852_960_720.jpg");
 }
 
 
