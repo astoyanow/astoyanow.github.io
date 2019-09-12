@@ -1,4 +1,6 @@
-
+body{
+  background: black;
+}
 
 header .row {
   align-items: center;
