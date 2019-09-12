@@ -66,6 +66,12 @@ p{
   text-align: center;
   justify-content: center;
   font-family: 'Cinzel',monospace;
+  display: flex;
+  justify-content: flex-end;
+  border: 5px solid;
+  border-radius: 5px;
+  background-color: black;
+  color: Red;
 }
 
 ul{
