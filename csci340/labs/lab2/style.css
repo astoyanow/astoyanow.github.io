@@ -25,7 +25,7 @@ footer{
 }
 
 .vegas{
-  background-size: 100%;
+  background-size: auto;
   text-align: center;
   display: inline-flex;
 }
