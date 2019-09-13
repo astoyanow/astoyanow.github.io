@@ -11,9 +11,9 @@ header{
 .container.vegas{
   width:100%;
   justify-content: center;
-  margin: 0;
+  margin: 20px;
   background-color: turquoise;
-  display: flex;
+
 }
 
 #footerInfo{
