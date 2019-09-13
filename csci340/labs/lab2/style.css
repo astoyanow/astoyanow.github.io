@@ -79,9 +79,10 @@ section{
 
   .pill{
     border: 0.5px solid;
-    border-radius: 10px;
+    border-radius: 3px;
     text-align: center;
     background-color: black;
+    padding: 10px;
   }
 
 h2{
