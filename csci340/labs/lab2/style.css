@@ -23,9 +23,8 @@ header{
   padding: 0;
 }
 
-img{
-  width: 800px;
-  height: auto;
+.casinoimage{
+  background-image: url("https://static.soundsandcolours.com/2016/10/south-american-casinos.jpg");
 }
 
 .vegas h2{
