@@ -73,7 +73,7 @@ section{
   padding: 0%;
   width: 100%;
   justify-content: center;
-  background-repeat:round;
+  background-repeat:no-repeat;
 }
 
   .pill{
