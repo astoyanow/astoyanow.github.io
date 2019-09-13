@@ -107,8 +107,6 @@ p{
   font-family: 'Abril Fatface',monospace;
   display: flex;
   justify-content: flex-end;
-  border: 5px solid;
-  border-radius: 5px;
   color: #FF6961;
   margin: 0;
   background-color: black;
@@ -117,8 +115,6 @@ p{
 ul{
   display: flex;
   justify-content: flex-end;
-  border: 5px solid;
-  border-radius: 5px;
   text-align: center;
   font-family: 'Abril Fatface';
   background-color: black;
