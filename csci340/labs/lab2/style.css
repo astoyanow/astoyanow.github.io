@@ -24,7 +24,7 @@ header{
 footer{
 }
 
-.vegas{
+.vegas h2{
   background-size: 100%;
   text-align: center;
 }
@@ -83,7 +83,6 @@ section{
     background-color: black;
   }
 
-  .vegas.row
 
 #h2{
   font-family: 'Abril Fatface', 'Lexend', cursive;
