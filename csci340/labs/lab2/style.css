@@ -9,7 +9,7 @@ header{
 }
 
 .container.vegas{
-  width:100%;
+  width:auto;
   justify-content: center;
   margin: 20px;
   background-color: navy;
