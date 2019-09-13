@@ -8,7 +8,7 @@ header{
   margin:0;
 }
 
-.container{
+.container.vegas{
   width:100%;
   justify-content: center;
 }
