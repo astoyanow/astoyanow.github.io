@@ -109,6 +109,8 @@ p{
   justify-content: flex-end;
   color: #FF6961;
   margin: 0;
+  border: 0.5px solid;
+  border-radius: 5px;
   background-color: black;
 }
 
@@ -118,6 +120,8 @@ ul{
   text-align: center;
   font-family: 'Abril Fatface';
   background-color: black;
+  border: 0.5px solid;
+  border-radius: 5px;
   color: #FF6961;
 }
 li{
