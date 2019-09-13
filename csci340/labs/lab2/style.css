@@ -95,7 +95,7 @@ p{
   justify-content: flex-end;
   border: 5px solid;
   border-radius: 5px;
-  color: Gold;
+  color: #FF6961;
   background-color: black;
 }
 
@@ -107,7 +107,7 @@ ul{
   text-align: center;
   font-family: 'Abril Fatface';
   background-color: black;
-  color: Gold;
+  color: #FF6961;
 }
 li{
   cursor: pointer;
