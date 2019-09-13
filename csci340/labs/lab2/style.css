@@ -12,7 +12,7 @@ header{
   width:100%;
   justify-content: center;
   margin: 20px;
-  background-color: turquoise;
+  background-color: navy;
 
 }
 
@@ -27,10 +27,7 @@ header{
   padding: 0;
 }
 
-.vegas h2{
-  text-align: center;
-  margin: 0;
-}
+
 
 .psectionBackground{
   background-image: url("https://cdn.pixabay.com/photo/2015/11/07/11/08/cards-1030852_960_720.jpg");
