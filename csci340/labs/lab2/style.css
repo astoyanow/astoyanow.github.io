@@ -25,9 +25,8 @@ footer{
 }
 
 .vegas{
-  background-size: auto;
+  background-size: 100%;
   text-align: center;
-  display: inline-flex;
 }
 
 .psectionBackground{
@@ -83,6 +82,8 @@ section{
     text-align: center;
     background-color: black;
   }
+
+  .vegas.row
 
 h2{
   font-family: 'Abril Fatface', 'Lexend', cursive;
