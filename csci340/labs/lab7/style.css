@@ -20,7 +20,8 @@ body{
 }
 
 .shibe{
-  justify-content: center;
+  align-items: center;
+  display: inline-flex;
   border-width: thick;
   border-style: ridge;
   border-color: yellow;
