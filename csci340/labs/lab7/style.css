@@ -23,10 +23,10 @@ body{
   width: 50px;
   float: left;
   border: 5px;
-  display: inline-flex;
 }
 #shibe2{
   width: 50px;
+  float:left;
   border: 5px;
-  display: inline-flex;
+
 }
