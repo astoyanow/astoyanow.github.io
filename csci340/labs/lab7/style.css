@@ -3,10 +3,10 @@ body{
 }
 #main-title{
   color: yellow;
-  align-items: center;
+  text-align: center;
 }
 
 #main-title-subheading{
   color: yellow;
-  align-items: center;
+  text-align: center;
 }
