@@ -19,13 +19,9 @@ body{
   overflow: hidden;
 }
 
-#shibe1{
-  width: 50px;
-  float: left;
-  border: 5px;
-}
-#shibe2{
-  width: 50px;
-  border: 5px;
-  float:right;
+.shibe{
+  justify-content: center;
+  border-width: thick;
+  border-style: ridge;
+  border-color: yellow;
 }
