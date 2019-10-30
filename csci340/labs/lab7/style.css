@@ -26,7 +26,6 @@ body{
 }
 #shibe2{
   width: 50px;
-  float:left;
   border: 5px;
-
+  overflow: hidden;
 }
