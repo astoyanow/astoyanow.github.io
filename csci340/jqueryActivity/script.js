@@ -1,8 +1,9 @@
 $( document ).ready(function() {
 
   var changeLight = function() {
-    if($("#light").hasClass('redlight'))
-      $("#light").toggleClass('redlight greenlight');
+    if($("#light1").hasClass('redlight'))
+      $("#light1").toggleClass('redlight off')
+      $("#light3").toggleClass('off greenlight');
     else if($("#light").hasClass('greenlight'))
       $("#light").toggleClass('greenlight yellowlight');
     else if($("#light").hasClass('yellowlight'))
