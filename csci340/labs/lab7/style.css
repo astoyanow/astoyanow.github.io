@@ -22,8 +22,8 @@ body{
 }
 
 .shibe{
-  justify-content: space-between;
-  display: inline-flex;
+
+  display: inline-block;
   border-width: thick;
   border-style: ridge;
   border-color: yellow;
