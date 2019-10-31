@@ -27,8 +27,12 @@ body{
   border-style: ridge;
   border-color: yellow;
 }
-
-
+#shibe1{
+  left: 25%;
+}
+#shibe2{
+  left: 75%;
+}
 .shibe-chooser{
   background-color: gold;
   font-family: 'Staatliches', cursive;
