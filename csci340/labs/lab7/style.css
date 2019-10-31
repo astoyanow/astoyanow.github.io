@@ -32,12 +32,12 @@ body{
 }
 #shibe1{
   float: left;
-  margin: 5px;
+  margin-left: 25%;
   width: 25%;
 }
 #shibe2{
   margin: 5px;
-  float:left;
+  float:right;
   width: 25%;
 }
 .shibe-chooser{
