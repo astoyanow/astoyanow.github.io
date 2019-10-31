@@ -29,7 +29,7 @@ body{
   border-width: thick;
   border-style: ridge;
   border-color: yellow;
-
+  width: 25%;
 }
 #shibe1{
   float: left;
