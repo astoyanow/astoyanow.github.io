@@ -35,12 +35,12 @@ body{
   float: left;
   display:flex;
   justify-content: center;
-  margin-left: 25%;
+  margin-left: 30%;
   margin-top: 20px;
   margin-bottom: 10px;
 }
 #shibe2{
-  margin-right: 25%;
+  margin-right: 30%;
   float:right;
   margin-top: 20px;
   margin-bottom: 10px;
