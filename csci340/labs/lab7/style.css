@@ -53,11 +53,14 @@ body{
   width: 100%;
 }
 #pic1{
-
+  width:50%;
   color: red;
+  height: 350px;
 }
 #pic2{
+  width:50%;
   color: blue;
+  height: 350px;
 }
 img{
   max-width: 100%;
