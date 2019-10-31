@@ -85,7 +85,7 @@ img{
   float:left;
   display: flex;
   justify-content: center;
-
+  margin-top: 20px;
 }
 #insult2{
   width:50%;
@@ -93,8 +93,11 @@ img{
   float:right;
   display: flex;
   justify-content: center;
+  margin-top: 20px;
+
 }
 p{
   color: yellow;
   font-family: 'Staatliches', cursive;
+  font-size: 30px;
 }
