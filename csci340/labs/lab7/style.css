@@ -27,3 +27,9 @@ body{
   border-style: ridge;
   border-color: yellow;
 }
+
+.shibe-chooser{
+  background-color: gold;
+  font-family: 'Staatliches', cursive;
+  font-weight: bold;
+}
