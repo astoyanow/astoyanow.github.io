@@ -33,10 +33,14 @@ body{
 #shibe1{
   float: left;
   margin-left: 25%;
+  margin-top: 20px;
+  margin-bottom: 10px;
 }
 #shibe2{
   margin-right: 25%;
   float:right;
+  margin-top: 20px;
+  margin-bottom: 10px;
 }
 .shibe-chooser{
   background-color: gold;
