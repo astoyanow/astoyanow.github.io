@@ -51,14 +51,18 @@ body{
 .container{
   height: 500px;
   width: 100%;
+  overflow: hidden;
+
 }
 #pic1{
+  display: inline-flex;
   width:50%;
   height: 350px;
   float:left;
   margin-left: 25%;
 }
 #pic2{
+  display: inline-flex;
   width:50%;
   height: 350px;
   float:right;
