@@ -81,7 +81,6 @@ img{
 }
 #insult1{
   width:50%;
-  height: 350px;
   float:left;
   display: flex;
   justify-content: center;
@@ -91,7 +90,6 @@ img{
 }
 #insult2{
   width:50%;
-  height: 350px;
   float:right;
   display: flex;
   justify-content: center;
