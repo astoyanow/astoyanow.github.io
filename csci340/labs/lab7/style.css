@@ -54,7 +54,6 @@ body{
   font-weight: bold;
   width: 100%;
   font-size: 20px;
-  letter-spacing: 10px;
 }
 .container{
   width: 100%;
@@ -85,21 +84,32 @@ img{
   border-radius: 5px;
   border-color: gold;
   border-width: 5px;
+
 }
 #insult1{
   width:50%;
   float:left;
   display: flex;
   justify-content: center;
+  word-wrap: break-word;
+  overflow: hidden;
+  margin: 10px;
 }
 #insult2{
   width:50%;
   float:right;
   display: flex;
   justify-content: center;
+  word-wrap: break-word;
+  overflow: hidden;
+  margin: 10px;
 }
 p{
   color: yellow;
   font-family: 'Staatliches', cursive;
-  font-size: 30px;
+  font-size: 25px;
+  width:50%;
+  display: flex;
+  justify-content: center;
+  word-wrap: break-word;
 }
