@@ -57,15 +57,11 @@ body{
   width:50%;
   height: 350px;
   float:left;
-  margin-left: 25%;
-  margin-right: 75%;
 }
 #pic2{
   width:50%;
   height: 350px;
   float:right;
-  margin-left: 75%;
-  margin-right: 25%;
 }
 img{
   max-width: 50%;
