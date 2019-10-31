@@ -22,7 +22,7 @@ body{
 }
 
 .shibe{
-  align-items: center;
+  justify-content: space-between;
   display: inline-flex;
   border-width: thick;
   border-style: ridge;
