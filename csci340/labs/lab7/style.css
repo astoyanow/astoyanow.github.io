@@ -26,6 +26,7 @@ body{
 
 .shibe{
   display:flex;
+  justify-content: center;
   border-width: thick;
   border-style: ridge;
   border-color: yellow;
