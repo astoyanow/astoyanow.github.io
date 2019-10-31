@@ -16,14 +16,14 @@ body{
 }
 
 #wrapper{
+  display: inline-block;
   overflow: hidden;
   align-self: center;
   width: 100%;
 }
 
 .shibe{
-
-  display: inline-block;
+  display: inline-flex;
   border-width: thick;
   border-style: ridge;
   border-color: yellow;
