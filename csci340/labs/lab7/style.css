@@ -31,11 +31,11 @@ body{
 #shibe1{
   float: left;
   margin: 5px;
-  width: 25%;
+  left: 25%;
 }
 #shibe2{
   margin: 5px;
-  width: 25%;
+  left: 75%;
 }
 .shibe-chooser{
   background-color: gold;
