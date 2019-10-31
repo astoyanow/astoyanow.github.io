@@ -29,7 +29,7 @@ body{
   border-width: thick;
   border-style: ridge;
   border-color: yellow;
-  
+
 }
 #shibe1{
   float: left;
@@ -47,4 +47,8 @@ body{
   background-color: gold;
   font-family: 'Staatliches', cursive;
   font-weight: bold;
+}
+.container{
+  height: 500px;
+  width: 100%;
 }
