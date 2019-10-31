@@ -26,7 +26,6 @@ body{
 
 .shibe{
   display:flex;
-  justify-content: center;
   border-width: thick;
   border-style: ridge;
   border-color: yellow;
@@ -36,10 +35,12 @@ body{
   float: left;
   display:flex;
   justify-content: center;
+  margin-left: 35%;
   margin-top: 20px;
   margin-bottom: 10px;
 }
 #shibe2{
+  margin-right: 35%;
   float:right;
   margin-top: 20px;
   margin-bottom: 10px;
