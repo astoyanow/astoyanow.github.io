@@ -80,27 +80,19 @@ img{
   margin-top: 20px;
   border-radius: 5px;
   border-color: gold;
-  border-width: thick;
+  border-width: 5px;
 }
 #insult1{
   width:50%;
   float:left;
   display: flex;
   justify-content: center;
-  margin-top: 20px;
-  border-radius: 5px;
-  border-color: gold;
-  border-width: thick;
 }
 #insult2{
   width:50%;
   float:right;
   display: flex;
   justify-content: center;
-  margin-top: 20px;
-  border-radius: 5px;
-  border-color: gold;
-  border-width: thick;
 }
 p{
   color: yellow;
