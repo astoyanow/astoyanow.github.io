@@ -1,7 +1,7 @@
 $(document).ready(function(){
   $("#shibe-chooser-1").click(function(){
     $.ajax({
-      crossorigin: true,
+      crossOrigin: true,
       dataType: "json",
       url: "http://shibe.online/api/shibes?count=1&urls=true&httpsUrls=true",
       success: function(results){
@@ -12,7 +12,7 @@ $(document).ready(function(){
       }
     });
     $.ajax({
-      crossorigin: true,
+      crossOrigin: true,
       dataType: "json",
       url:"https://evilinsult.com/generate_insult.php?lang=en&type=json",
       success: function(results){
@@ -25,7 +25,7 @@ $(document).ready(function(){
   });
   $("#shibe-chooser-2").click(function(){
     $.ajax({
-      crossorigin: true,
+      crossOrigin: true,
       dataType: "json",
       url: "http://shibe.online/api/shibes?count=1&urls=true&httpsUrls=true",
       success: function(results){
@@ -36,7 +36,7 @@ $(document).ready(function(){
       }
     });
     $.ajax({
-      crossorigin: true,
+      crossOrigin: true,
       dataType: "json",
       url:"https://evilinsult.com/generate_insult.php?lang=en&type=json",
       success: function(results){
