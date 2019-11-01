@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <script type="text/javascript" src="js/jquery.ajax-cross-origin.min.js"></script>
     <meta charset="utf-8">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel = "stylesheet" type="text/css" href="style.css"/>
@@ -12,35 +13,34 @@
     <h3 id="main-title-subheading"> Who Has The Better Insults?</h3>
     <div id="wrapper">
       <div class="shibe" id="shibe1" >
-        <input class="shibe-chooser" type="button" value="Choose Your Shibe"></input>
+        <input class="shibe-chooser" id = "shibe-chooser-1" type="button" value="Choose Your Shibe"></input>
       </div>
       <div class = "shibe" id="shibe2">
-        <input class="shibe-chooser" type="button" value="Choose Your Shibe"></input>
+        <input class="shibe-chooser" id = "shibe-chooser-2" type="button" value="Choose Your Shibe"></input>
       </div>
     </div>
 
     <div class = "container">
       <div id="pic1">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Shiba_inu_taiki.jpg"/>
+        <img id = "image1" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Shiba_inu_taiki.jpg"/>
       </div>
       <div id="pic2">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Shiba_inu_taiki.jpg"/>
+        <img id = "image2" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Shiba_inu_taiki.jpg"/>
       </div>
     </div>
 
     <div class="container">
       <div class="rude" id="insult1">
-        <p>asfasfasfasfasfasafssafasfasfasfasfasfasfasfasfasfasfasfasfasfsaf</p>
+        <p>Your mom</p>
       </div>
       <div class="rude" id="insult2">
-        <p>testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttest</p>
+        <p>No u</p>
       </div>
     </div>
 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="script.js"></script>
   </body>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-  <script src="script.js"></script>
 
 
 </html>
